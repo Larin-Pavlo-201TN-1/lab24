@@ -1,0 +1,11 @@
+D:\visual studio\prodject\lab24\lab24\obj\Debug\lab24.csproj.AssemblyReference.cache
+D:\visual studio\prodject\lab24\lab24\obj\Debug\lab24.csproj.SuggestedBindingRedirects.cache
+D:\visual studio\prodject\lab24\lab24\obj\Debug\lab24.Form1.resources
+D:\visual studio\prodject\lab24\lab24\obj\Debug\lab24.Properties.Resources.resources
+D:\visual studio\prodject\lab24\lab24\obj\Debug\lab24.csproj.GenerateResource.cache
+D:\visual studio\prodject\lab24\lab24\obj\Debug\lab24.csproj.CoreCompileInputs.cache
+D:\visual studio\prodject\lab24\lab24\bin\Debug\lab24.exe.config
+D:\visual studio\prodject\lab24\lab24\bin\Debug\lab24.exe
+D:\visual studio\prodject\lab24\lab24\bin\Debug\lab24.pdb
+D:\visual studio\prodject\lab24\lab24\obj\Debug\lab24.exe
+D:\visual studio\prodject\lab24\lab24\obj\Debug\lab24.pdb
